@@ -1,0 +1,36 @@
+_repo: Birds-in-Flight_45086
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Green, Roland
+    birthdate: 1890
+    deathdate: 1972
+    gutenberg_agent_id: '43094'
+    url: http://www.gutenberg.org/2009/agents/43094
+covers:
+- cover_type: archival
+  image_path: 45086-h/images/epub_cover.jpg
+creator:
+  author:
+    agent_name: Pycraft, W. P. (William Plane)
+    alias: Pycraft, William Plane
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '43093'
+    url: http://www.gutenberg.org/2009/agents/43093
+description: ''
+gutenberg_issued: '2014-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45086'
+  lccn: '23003588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flight'
+- !lcc 'QL'
+- !lcsh 'Birds'
+title: Birds in Flight
+url: http://www.gutenberg.org/ebooks/45086
